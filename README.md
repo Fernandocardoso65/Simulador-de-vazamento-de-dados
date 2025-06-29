@@ -1,5 +1,3 @@
-# Simulador-de-vazamento-de-dados
-
 # Simulador de Vazamento de Dados
 
 Este é um projeto educativo que simula o que acontece quando um usuário envia dados pessoais (como login e senha) através de um site **sem conexão segura (HTTP)**.
@@ -11,9 +9,10 @@ Alertar e conscientizar os usuários sobre os perigos de inserir informações s
 
 ##  Demonstração
 
-<img src="https://i.imgur.com/simulador.gif" alt="Simulação de vazamento" width="600">
+![image](https://github.com/user-attachments/assets/aad401db-bdcc-4aae-9c22-f48c0b92fb39)
 
-> *Demonstração visual fictícia de interceptação de dados em uma conexão insegura.*
+![image](https://github.com/user-attachments/assets/230b5982-24e6-4f83-8ad9-f085ed8ee1b3)
+
 
 
 ## Funcionalidades
