@@ -43,7 +43,7 @@ Este projeto mostra de forma prática:
 
 ## Autor
 
-Desenvolvido por [Fernando Cardoso]  — apaixonado por tecnologia, segurança e soluções educativas.
+Desenvolvido por Fernando Cardoso  — apaixonado por tecnologia, segurança e soluções educativas.
 
 
 ##  Licença
